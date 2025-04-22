@@ -1,7 +1,0 @@
-com\jdc\workspaceblogs\service\BlogsService.class
-com\jdc\workspaceblogs\service\implement\ImplementsBlogs.class
-com\jdc\workspaceblogs\WorkSpaceBlogsApplication.class
-com\jdc\workspaceblogs\repository\BlogRepository.class
-com\jdc\workspaceblogs\rest\RestBlogs.class
-com\jdc\workspaceblogs\dto\BlogsDTO.class
-com\jdc\workspaceblogs\model\Blogs.class
